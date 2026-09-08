@@ -1,3 +1,9 @@
 [submodule "spl-nft-q326"]
 	path = spl-nft-q326
 	url = https://github.com/HarmishTervadiya/spl-nft-q326.git
+[submodule "week 2/escrow-q3-26"]
+	path = week 2/escrow-q3-26
+	url = https://github.com/HarmishTervadiya/escrow-q3-26
+[submodule "week 2/vault-q3-26"]
+	path = week 2/vault-q3-26
+	url = https://github.com/HarmishTervadiya/vault-q3-26

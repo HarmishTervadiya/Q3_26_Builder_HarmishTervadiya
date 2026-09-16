@@ -7,3 +7,6 @@
 [submodule "week 2/vault-q3-26"]
 	path = week 2/vault-q3-26
 	url = https://github.com/HarmishTervadiya/vault-q3-26
+[submodule "week3"]
+	path = week3
+	url = https://github.com/HarmishTervadiya/amm_q3_26
